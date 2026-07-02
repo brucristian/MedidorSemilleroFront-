@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Kotlin
+.kotlin/
+
+# IDEs (IntelliJ / Android Studio)
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Maven
+target/
+
+# OS / Logs
+*.log
+.DS_Store
+Thumbs.db
+
+# Seguridad y Configuración Local
+.env
+local.properties
+*.keystore
+*.jks
